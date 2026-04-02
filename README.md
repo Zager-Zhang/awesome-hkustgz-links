@@ -38,3 +38,12 @@
 | --- | --- |
 | [通用软件](https://itdid.hkust-gz.edu.cn/cn/GeneralOfficeSoftware) | 日常办公软件下载（ZOOM、打印机驱动、传屏助手等） |
 | [教学科研软件](https://itdid.hkust-gz.edu.cn/cn/TeachingResearchSoftware) | 教学与科研正版软件下载（MATLAB、SolidWorks 等） |
+
+## 学校信息
+
+```text
+学校名称：香港科技大学（广州） / The Hong Kong University of Science and Technology (Guangzhou)
+学校地址：广东省广州市南沙区笃学路1号 / No. 1 Duxue Road, Nansha District, Guangzhou, Guangdong, China
+邮政编码：511453
+联系电话：020-88339116
+```
