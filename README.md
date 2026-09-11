@@ -46,6 +46,7 @@
 
 | 入口 | 主要用途 |
 | --- | --- |
+| [Postgraduate Program Catalog](https://fytgs.hkust-gz.edu.cn/postgraduate-programs/postgraduate-program-catalog) | MPhil/PhD 各项目的课程与学分要求 |
 | [HKUST(GZ) KLMS](https://klms.hkust-gz.edu.cn/home) | 思政课程选课 |
 | [HKUST(GZ) PDC](https://pdc.hkust-gz.edu.cn/event-enrolment) | PDC 活动选课/报名 |
 
