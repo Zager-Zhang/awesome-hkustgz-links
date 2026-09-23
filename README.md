@@ -1,3 +1,5 @@
+
+
 # awesome-hkustgz-links
 
 > **港科广 (HKUST-GZ) 实用网站汇总。**  
@@ -37,7 +39,7 @@
 | --- | --- |
 | [Application For PG Leave](https://eform.hkust-gz.edu.cn/bpm/YZSoft/forms/Post.aspx?pn=Application_For_PG_leave) | PhD 学生请假申请 |
 | [Annual Leave](https://eform.hkust-gz.edu.cn/BPM/YZSoft/forms/Post.aspx?pn=Leave_Application) | RBM 年假申请 |
-| [Business Trip / Research Travel](https://eform.hkust-gz.edu.cn/BPM/YZSoft/forms/Post.aspx?pn=**Business_Trip_and_Research_Travel_Application**) | RBM 出差/调研申请与报销 |
+| [Business Trip / Research Travel](https://eform.hkust-gz.edu.cn/BPM/YZSoft/forms/Post.aspx?pn=Business_Trip_and_Research_Travel_Application) | RBM 出差/调研申请与报销 |
 | [Purchase and Reimbursement](https://eform.hkust-gz.edu.cn/BPM/YZSoft/Forms/Post.aspx?pn=Purchase_and_Reimbursement_of_RBM_Thesis_Project) | RBM 采购与报销 |
 
 ## 教学与办事系统
