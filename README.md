@@ -64,6 +64,7 @@
 | 入口 | 主要用途 |
 | --- | --- |
 | [教务文件办理指引](https://onestopservice.hkust-gz.edu.cn/zh/2024/02/28/%e5%9c%a8%e8%af%bb%e8%af%81%e6%98%8e%e5%8a%9e%e7%90%86%e6%8c%87%e5%bc%95/) | 在读证明、成绩单、ACL/PACL 办理说明 |
+| [电子文档系统（我的文档）](https://edoc.hkust-gz.edu.cn/my-document) | 领取毕业证等证书与文档 |
 
 ### RBM 日常
 
