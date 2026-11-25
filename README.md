@@ -78,6 +78,7 @@
 | --- | --- |
 | [GPT Service System](https://gpt.hkust-gz.edu.cn/conversation-mode) | 校内 GPT 服务入口 |
 | [HPC AI 智算平台知识库](https://docs.hpc.hkust-gz.edu.cn/) | HPC 平台文档、账号申请、用户手册与平台门户 |
+| [港科广在线打印](http://10.121.9.122:8119/mobileproxy/#/index/cloudprint) | 校园云打印入口（内网地址） |
 <!-- | [CITI Program](https://www.citiprogram.org/) | 科研伦理培训与认证 | -->
 
 ## 下载中心
